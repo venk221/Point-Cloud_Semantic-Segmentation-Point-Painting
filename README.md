@@ -7,6 +7,7 @@ To run this project follow these steps:
 ![ICP](Images/ICP_on_PC.png)
 5) Semantically segment images by running `semantic_segmentation.py` in DeepLabV3Plus-Pytorch folder.
 6) Again generate the map using `icp.py`
+7) 
 ![PC](Images/PC-Projected-images.png)
 
 Alternatively , run the `run.bash` script which will everything for you.
