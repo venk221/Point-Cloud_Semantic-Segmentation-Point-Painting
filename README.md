@@ -8,6 +8,7 @@ To run this project follow these steps:
 5) Semantically segment images by running `semantic_segmentation.py` in DeepLabV3Plus-Pytorch folder.
 6) Again generate the map using `icp.py`
 ![PC](Images/PC-Projected-images.png)
+
 Alternatively , run the `run.bash` script which will everything for you.
 
 NOTE: Download the pretrained weights for the network from `https://www.dropbox.com/sh/w3z9z8lqpi8b2w7/AAABmvcqWdVtTJCFQ75OmK0va/best_deeplabv3_resnet101_voc_os16.pth?dl=0` and store them in the `Code` folder.
